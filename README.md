@@ -3,6 +3,7 @@
 A new Flutter project.
 
 ## Getting Started
+<img src="https://github.com/Mirzaazmath/flutter_day_night_sea/blob/main/assets/result.gif" height="400">
 
 This project is a starting point for a Flutter application.
 
